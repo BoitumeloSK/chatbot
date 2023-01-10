@@ -1,0 +1,19 @@
+.button{
+    margin: 10px;
+    cursor: pointer;
+}
+#btnDiv, #textingDiv{
+    display: flex;
+    justify-content: center;
+}
+center, #welcomeDiv{
+    text-align: center;
+}
+#textDiv{
+    float: right;
+    background-color: aquamarine;
+    width: 100%
+}
+.respond{
+    background-color: aquamarine;
+}
