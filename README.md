@@ -6,6 +6,7 @@ This project is a chatbot with predetermined responses based on the number of me
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [License](#license)
 
 ## Installation
 To make use of the chatbot you have to clone the repository using:
@@ -19,3 +20,6 @@ After cloning this repository, double click the `index.html`. Then, click any of
 
 ## Credits 
 This project was completed in collaboration with [NMGODWILL](https://github.com/nmgodwill).
+
+## License
+MIT
