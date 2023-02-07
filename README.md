@@ -1,6 +1,6 @@
 # Chatbot
 
-This project is a chatbot with predetermined responses based on the number of messages sent by the user. After the array of chatbot messages has been completed, it is reset. Development was done using HTML, Javascript and CSS.
+This project is a chatbot that has a short general conversation with the user. Development was done using HTML, Javascript and CSS.
 
 ## Table of Contents 
 - [Installation](#installation)
