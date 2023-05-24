@@ -1,0 +1,20 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "This project is a chatbot that has a short general conversation with the user. Development was done using HTML, Javascript and CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoitumeloSK/chatbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoitumeloSK/chatbot/issues"
+  },
+  "homepage": "https://github.com/BoitumeloSK/chatbot#readme"
+}
